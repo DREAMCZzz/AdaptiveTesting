@@ -1,2 +1,2 @@
 # AdaptiveTesting
-An adaptive testing system based on IRT.
+An adaptive testing system.
